@@ -3,8 +3,8 @@
 > Code4rena contest: [link](https://code4rena.com/audits/2025-11-megapot)  
 > Audit period: [Nov-4-2025] – [Nov-14-2025]  
 > Total Submissions: 2
-> Status: <span style="color:green">Valid</span>
 > Final Rank: 31
+![Status: Valid](https://img.shields.io/badge/Status-Valid-brightgreen)
 
 ---
 
